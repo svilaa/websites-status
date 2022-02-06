@@ -17,10 +17,8 @@ sites:
     url: https://printandgo.tech
   - name: XRshop
     url: https://xrshop.invelon.com
-  - name: Invelon
-    url: https://ingamevr.com
   - name: InGameVR
-    url: https://invelon.com
+    url: https://ingamevr.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
