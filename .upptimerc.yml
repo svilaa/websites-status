@@ -3,16 +3,32 @@ owner: svilaa # Your GitHub organization or username, where this repository live
 repo: websites-status # The name of this repository
 
 sites:
-  - name: Print & Go
+  - name: Print & Go App
     url: https://www.printandgo.app
-
+  - name: Aurora Cloud App
+    url: https://www.auroracloud.app
+  - name: Invelon
+    url: https://invelon.com
+  - name: Intech3D
+    url: https://intech3d.es
+  - name: Ingroup
+    url: https://ingroup.biz
+  - name: Print & Go
+    url: https://printandgo.tech
+  - name: XRshop
+    url: https://xrshop.invelon.com
+  - name: Invelon
+    url: https://ingamevr.com
+  - name: InGameVR
+    url: https://invelon.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /websites-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://media-exp1.licdn.com/dms/image/C4D0BAQHk0BmlfvWrqw/company-logo_200_200/0/1624010793210?e=2159024400&v=beta&t=8O-YBBAvLhjadE4rDdmIG59xEumpPn4oehL4MqnMzYM
+  name: InGroup sites
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
