@@ -4,18 +4,20 @@
     "url": "https://www.printandgo.app",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 685,
-    "timeDay": 565,
+    "timeDay": 648,
     "timeWeek": 685,
     "timeMonth": 685,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Aurora Cloud App",
