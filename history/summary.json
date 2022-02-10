@@ -41,19 +41,17 @@
     "icon": "https://invelon.com/favicon-32x32.png",
     "slug": "invelon",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 670,
     "timeDay": 376,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {
-      "2022-02-10": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intech3D",
@@ -96,9 +94,9 @@
     "url": "https://printandgo.tech",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +105,9 @@
     "timeWeek": 3194,
     "timeMonth": 3194,
     "timeYear": 3194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "XRshop",
