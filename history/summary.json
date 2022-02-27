@@ -40,9 +40,9 @@
     "url": "https://invelon.com",
     "icon": "https://invelon.com/favicon-32x32.png",
     "slug": "invelon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 350,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "Intech3D",
