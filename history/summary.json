@@ -58,9 +58,9 @@
     "url": "https://intech3d.es",
     "icon": "https://intech3d.es/wp-content/uploads/2016/11/intech3dlogo2-280x280.png",
     "slug": "intech3-d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -70,6 +70,7 @@
     "timeMonth": 3040,
     "timeYear": 3040,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-18": 16
     }
   },
