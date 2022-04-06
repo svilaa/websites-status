@@ -84,19 +84,19 @@
     "url": "https://ingroup.biz",
     "icon": "https://ingroup.biz/wp-content/uploads/2021/07/favicon.png",
     "slug": "ingroup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1870,
-    "timeDay": 1670,
-    "timeWeek": 1743,
-    "timeMonth": 1832,
-    "timeYear": 1870,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1907,
+    "timeDay": 2941,
+    "timeWeek": 2052,
+    "timeMonth": 1906,
+    "timeYear": 1907,
     "dailyMinutesDown": {
-      "2022-04-06": 2
+      "2022-04-06": 8
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3460,
-    "timeDay": 3266,
-    "timeWeek": 3320,
-    "timeMonth": 3486,
-    "timeYear": 3460,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3461,
+    "timeDay": 3418,
+    "timeWeek": 3351,
+    "timeMonth": 3489,
+    "timeYear": 3461,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 7
     }
   }
 ]
