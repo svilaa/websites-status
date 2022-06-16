@@ -72,11 +72,11 @@
     "icon": "https://intech3d.es/wp-content/uploads/2016/11/intech3dlogo2-280x280.png",
     "slug": "intech3-d",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 3979,
     "timeDay": 3413,
     "timeWeek": 3527,
@@ -158,9 +158,9 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
@@ -170,6 +170,7 @@
     "timeMonth": 3193,
     "timeYear": 3410,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-06-07": 35,
       "2022-04-07": 45
     }
