@@ -109,10 +109,10 @@
     "url": "https://ingroup.biz",
     "icon": "https://ingroup.biz/wp-content/uploads/2021/07/favicon.png",
     "slug": "ingroup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1855,
@@ -120,7 +120,9 @@
     "timeWeek": 1734,
     "timeMonth": 1839,
     "timeYear": 1855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-26": 1
+    }
   },
   {
     "name": "Print & Go",
@@ -170,9 +172,9 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -182,6 +184,7 @@
     "timeMonth": 3341,
     "timeYear": 3408,
     "dailyMinutesDown": {
+      "2022-07-26": 0,
       "2022-06-16": 32,
       "2022-06-07": 35,
       "2022-04-07": 45
