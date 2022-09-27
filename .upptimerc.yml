@@ -27,6 +27,9 @@ sites:
   - name: InGameVR
     url: https://ingamevr.com
     icon: https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png
+  - name: Aulas Ateca
+    url: https://aulasateca.com
+    icon: https://aulasateca.com/icons/icon-48x48.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
