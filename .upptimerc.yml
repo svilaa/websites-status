@@ -8,7 +8,7 @@ sites:
     icon: https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico
   - name: Aurora Cloud App
     url: https://www.auroracloud.app
-    icon: https://inveloncloud.s3.amazonaws.com/web_manager/img/animated_logo/aurora_logo.png?x-version=0.0.7&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYD5FB6H7OMFACF4V%2F20220206%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T112115Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7bce09853ecd486a5a5452edf54da03c64ea13af4a0b6df20607669389b1e37e
+    icon: https://invelonpublic.s3.eu-west-3.amazonaws.com/img/aurora_logo_128.png
   - name: Invelon
     url: https://invelon.com
     icon: https://invelon.com/favicon-32x32.png
