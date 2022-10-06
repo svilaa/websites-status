@@ -30,7 +30,10 @@ sites:
   - name: Aulas Ateca
     url: https://aulasateca.com
     icon: https://aulasateca.com/icons/icon-48x48.png
-    
+  - name: Innitia Studio
+    url: https://www.innitia.studio
+    icon: https://www.innitia.studio/favicon.ico
+        
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
