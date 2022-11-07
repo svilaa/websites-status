@@ -85,7 +85,7 @@
     "slug": "intech3-d",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "31.34%",
     "uptimeWeek": "59.12%",
     "uptimeMonth": "90.59%",
     "uptimeYear": "98.85%",
@@ -207,9 +207,9 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,7 +218,9 @@
     "timeWeek": 275,
     "timeMonth": 390,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-07": 0
+    }
   },
   {
     "name": "Innitia Studio",
