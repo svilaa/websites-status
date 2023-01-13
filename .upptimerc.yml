@@ -33,6 +33,9 @@ sites:
   - name: Innitia Studio
     url: https://www.innitia.studio
     icon: https://www.innitia.studio/favicon.ico
+  - name: Un viaje al pasado
+    url: https://unviajealpasado.com
+    icon: https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png
         
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
