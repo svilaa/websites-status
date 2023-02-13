@@ -4,18 +4,19 @@
     "url": "https://www.printandgo.app",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.82%",
     "time": 752,
     "timeDay": 846,
     "timeWeek": 3034,
-    "timeMonth": 1497,
+    "timeMonth": 1515,
     "timeYear": 753,
     "dailyMinutesDown": {
+      "2023-02-13": 0,
       "2023-02-08": 35,
       "2023-02-01": 479,
       "2023-01-31": 206,
@@ -42,7 +43,7 @@
     "time": 818,
     "timeDay": 862,
     "timeWeek": 1395,
-    "timeMonth": 894,
+    "timeMonth": 898,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2023-01-02": 29,
@@ -68,7 +69,7 @@
     "time": 644,
     "timeDay": 1171,
     "timeWeek": 465,
-    "timeMonth": 453,
+    "timeMonth": 448,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2022-08-31": 20,
@@ -98,7 +99,7 @@
     "time": 4382,
     "timeDay": 4257,
     "timeWeek": 4585,
-    "timeMonth": 4496,
+    "timeMonth": 4430,
     "timeYear": 4417,
     "dailyMinutesDown": {
       "2023-01-25": 20,
@@ -135,7 +136,7 @@
     "time": 1779,
     "timeDay": 2063,
     "timeWeek": 2091,
-    "timeMonth": 2150,
+    "timeMonth": 2116,
     "timeYear": 1771,
     "dailyMinutesDown": {
       "2022-09-20": 18,
@@ -156,7 +157,7 @@
     "time": 3551,
     "timeDay": 4492,
     "timeWeek": 4255,
-    "timeMonth": 3961,
+    "timeMonth": 3981,
     "timeYear": 3562,
     "dailyMinutesDown": {
       "2023-01-25": 55,
@@ -180,7 +181,7 @@
     "time": 371,
     "timeDay": 573,
     "timeWeek": 432,
-    "timeMonth": 468,
+    "timeMonth": 467,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2022-06-21": 35
@@ -200,7 +201,7 @@
     "time": 3444,
     "timeDay": 3709,
     "timeWeek": 3647,
-    "timeMonth": 3532,
+    "timeMonth": 3546,
     "timeYear": 3451,
     "dailyMinutesDown": {
       "2022-11-14": 29,
@@ -225,7 +226,7 @@
     "time": 362,
     "timeDay": 52,
     "timeWeek": 187,
-    "timeMonth": 209,
+    "timeMonth": 205,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2022-12-15": 20,
@@ -247,7 +248,7 @@
     "time": 310,
     "timeDay": 50,
     "timeWeek": 263,
-    "timeMonth": 230,
+    "timeMonth": 223,
     "timeYear": 310,
     "dailyMinutesDown": {}
   },
@@ -265,7 +266,7 @@
     "time": 4660,
     "timeDay": 4445,
     "timeWeek": 4922,
-    "timeMonth": 4660,
+    "timeMonth": 4687,
     "timeYear": 4660,
     "dailyMinutesDown": {}
   }
