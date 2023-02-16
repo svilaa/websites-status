@@ -97,7 +97,7 @@
     "uptimeYear": "99.13%",
     "time": 4382,
     "timeDay": 4378,
-    "timeWeek": 4763,
+    "timeWeek": 4303,
     "timeMonth": 4293,
     "timeYear": 4434,
     "dailyMinutesDown": {
@@ -155,7 +155,7 @@
     "uptimeYear": "99.97%",
     "time": 3552,
     "timeDay": 3686,
-    "timeWeek": 4018,
+    "timeWeek": 4011,
     "timeMonth": 3942,
     "timeYear": 3563,
     "dailyMinutesDown": {
@@ -239,9 +239,9 @@
     "url": "https://www.innitia.studio",
     "icon": "https://www.innitia.studio/favicon.ico",
     "slug": "innitia-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,7 +250,9 @@
     "timeWeek": 263,
     "timeMonth": 220,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-16": 0
+    }
   },
   {
     "name": "Un viaje al pasado",
