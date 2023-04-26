@@ -251,17 +251,19 @@
     "url": "https://unviajealpasado.com",
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4437,
-    "timeDay": 4609,
-    "timeWeek": 4349,
-    "timeMonth": 4344,
-    "timeYear": 4437,
-    "dailyMinutesDown": {}
+    "time": 4400,
+    "timeDay": 2559,
+    "timeWeek": 3869,
+    "timeMonth": 4224,
+    "timeYear": 4400,
+    "dailyMinutesDown": {
+      "2023-04-26": 0
+    }
   }
 ]
