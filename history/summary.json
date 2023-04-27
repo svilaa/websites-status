@@ -4,13 +4,13 @@
     "url": "https://www.printandgo.app",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "97.35%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.82%",
-    "time": 743,
+    "time": 744,
     "timeDay": 961,
     "timeWeek": 772,
     "timeMonth": 713,
@@ -254,9 +254,9 @@
     "slug": "un-viaje-al-pasado",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "13.10%",
-    "uptimeWeek": "87.59%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "12.41%",
+    "uptimeWeek": "87.49%",
+    "uptimeMonth": "97.12%",
     "uptimeYear": "99.16%",
     "time": 4365,
     "timeDay": 567,
@@ -264,7 +264,7 @@
     "timeMonth": 4099,
     "timeYear": 4365,
     "dailyMinutesDown": {
-      "2023-04-27": 319,
+      "2023-04-27": 329,
       "2023-04-26": 932
     }
   }
