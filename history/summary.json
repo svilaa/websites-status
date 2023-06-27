@@ -108,9 +108,9 @@
     "url": "https://ingroup.biz",
     "icon": "https://ingroup.biz/wp-content/uploads/2021/07/favicon.png",
     "slug": "ingroup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -120,6 +120,7 @@
     "timeMonth": 1746,
     "timeYear": 1797,
     "dailyMinutesDown": {
+      "2023-06-27": 1,
       "2022-09-20": 18,
       "2022-07-26": 43
     }
@@ -235,11 +236,11 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "up",
-    "uptime": "96.17%",
+    "uptime": "96.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.19%",
     "time": 4153,
     "timeDay": 4833,
     "timeWeek": 4076,
