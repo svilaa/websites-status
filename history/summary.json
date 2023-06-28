@@ -215,9 +215,9 @@
     "url": "https://www.innitia.studio",
     "icon": "https://www.innitia.studio/favicon.ico",
     "slug": "innitia-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -227,6 +227,7 @@
     "timeMonth": 255,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2023-06-28": 0,
       "2023-02-16": 192
     }
   },
@@ -236,11 +237,11 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "up",
-    "uptime": "96.20%",
+    "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.20%",
+    "uptimeYear": "96.21%",
     "time": 4152,
     "timeDay": 3962,
     "timeWeek": 4048,
