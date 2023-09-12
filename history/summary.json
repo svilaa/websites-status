@@ -43,7 +43,7 @@
     "timeDay": 529,
     "timeWeek": 671,
     "timeMonth": 768,
-    "timeYear": 794,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2023-01-02": 29
     }
@@ -71,19 +71,19 @@
     "url": "https://intech3d.es",
     "icon": "https://intech3d.es/wp-content/uploads/2016/11/intech3dlogo2-280x280.png",
     "slug": "intech3-d",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.00%",
-    "time": 3797,
-    "timeDay": 992,
-    "timeWeek": 570,
-    "timeMonth": 317,
-    "timeYear": 3629,
+    "time": 3793,
+    "timeDay": 837,
+    "timeWeek": 527,
+    "timeMonth": 310,
+    "timeYear": 3619,
     "dailyMinutesDown": {
-      "2023-09-12": 0,
+      "2023-09-12": 12,
       "2023-06-09": 444,
       "2023-06-08": 683,
       "2023-01-25": 20,
@@ -108,7 +108,7 @@
     "timeDay": 1473,
     "timeWeek": 1651,
     "timeMonth": 1768,
-    "timeYear": 1798,
+    "timeYear": 1797,
     "dailyMinutesDown": {
       "2023-07-26": 44,
       "2022-09-20": 18
@@ -129,7 +129,7 @@
     "timeDay": 61,
     "timeWeek": 191,
     "timeMonth": 299,
-    "timeYear": 3331,
+    "timeYear": 3330,
     "dailyMinutesDown": {
       "2023-07-27": 253,
       "2023-01-25": 55
@@ -150,7 +150,7 @@
     "timeDay": 481,
     "timeWeek": 707,
     "timeMonth": 769,
-    "timeYear": 681,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
