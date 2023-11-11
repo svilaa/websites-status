@@ -139,19 +139,19 @@
     "url": "https://xrshop.invelon.com",
     "icon": "https://cdn.shopify.com/s/files/1/0506/7184/5560/files/XR-small_32x32.png",
     "slug": "x-rshop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 2402,
-    "timeWeek": 1212,
-    "timeMonth": 955,
-    "timeYear": 736,
+    "time": 668,
+    "timeDay": 2121,
+    "timeWeek": 1243,
+    "timeMonth": 971,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 6
     }
   },
   {
