@@ -146,19 +146,19 @@
     "url": "https://xrshop.invelon.com",
     "icon": "https://cdn.shopify.com/s/files/1/0506/7184/5560/files/XR-small_32x32.png",
     "slug": "x-rshop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 546,
-    "timeWeek": 1011,
-    "timeMonth": 894,
-    "timeYear": 778,
+    "time": 718,
+    "timeDay": 640,
+    "timeWeek": 994,
+    "timeMonth": 892,
+    "timeYear": 779,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 6
     }
   },
   {
@@ -170,7 +170,7 @@
     "uptime": "97.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.32%",
+    "uptimeMonth": "52.30%",
     "uptimeYear": "95.82%",
     "time": 3487,
     "timeDay": 0,
@@ -178,7 +178,7 @@
     "timeMonth": 3470,
     "timeYear": 3478,
     "dailyMinutesDown": {
-      "2023-12-15": 1301,
+      "2023-12-15": 1307,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
