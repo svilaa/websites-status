@@ -57,18 +57,20 @@
     "url": "https://invelon.com",
     "icon": "https://invelon.com/favicon-32x32.png",
     "slug": "invelon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
+    "time": 477,
     "timeDay": 355,
     "timeWeek": 167,
     "timeMonth": 155,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-09": 0
+    }
   },
   {
     "name": "Intech3D",
@@ -162,10 +164,10 @@
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.74%",
-    "uptimeMonth": "15.29%",
+    "uptimeWeek": "84.40%",
+    "uptimeMonth": "17.52%",
     "uptimeYear": "90.65%",
     "time": 3469,
     "timeDay": 3758,
