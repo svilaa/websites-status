@@ -57,19 +57,19 @@
     "url": "https://invelon.com",
     "icon": "https://invelon.com/favicon-32x32.png",
     "slug": "invelon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 477,
-    "timeDay": 355,
-    "timeWeek": 167,
-    "timeMonth": 155,
-    "timeYear": 386,
+    "timeDay": 240,
+    "timeWeek": 162,
+    "timeMonth": 154,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-01-09": 0
+      "2024-01-09": 4
     }
   },
   {
@@ -166,7 +166,7 @@
     "status": "up",
     "uptime": "95.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.40%",
+    "uptimeWeek": "84.44%",
     "uptimeMonth": "17.52%",
     "uptimeYear": "90.65%",
     "time": 3469,
