@@ -14,7 +14,7 @@
     "timeDay": 496,
     "timeWeek": 523,
     "timeMonth": 574,
-    "timeYear": 660,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2023-11-29": 135,
       "2023-11-28": 23,
@@ -214,18 +214,20 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
+    "time": 255,
     "timeDay": 131,
     "timeWeek": 126,
     "timeMonth": 124,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   },
   {
     "name": "Innitia Studio",
