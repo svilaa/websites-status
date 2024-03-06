@@ -63,7 +63,7 @@
     "timeDay": 105,
     "timeWeek": 171,
     "timeMonth": 167,
-    "timeYear": 323,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -81,7 +81,7 @@
     "timeDay": 367,
     "timeWeek": 186,
     "timeMonth": 141,
-    "timeYear": 1185,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2023-09-13": 37,
       "2023-09-12": 3,
@@ -224,7 +224,7 @@
     "timeDay": 102,
     "timeWeek": 150,
     "timeMonth": 135,
-    "timeYear": 224,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -252,18 +252,19 @@
     "url": "https://unviajealpasado.com",
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "98.21%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.22%",
     "time": 4504,
-    "timeDay": 4481,
+    "timeDay": 4032,
     "timeWeek": 6040,
-    "timeMonth": 5756,
+    "timeMonth": 5668,
     "timeYear": 4506,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-03-05": 26,
       "2024-02-21": 57,
       "2024-02-05": 180,
