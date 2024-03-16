@@ -53,11 +53,11 @@
     "url": "https://invelon.com",
     "icon": "https://invelon.com/favicon-32x32.png",
     "slug": "invelon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 212,
@@ -65,7 +65,7 @@
     "timeMonth": 168,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-03-16": 5
+      "2024-03-16": 1
     }
   },
   {
@@ -75,9 +75,9 @@
     "slug": "intech3-d",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1959,
     "timeDay": 195,
@@ -85,7 +85,6 @@
     "timeMonth": 152,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2024-03-16": 11,
       "2023-09-13": 37,
       "2023-09-12": 3,
       "2023-06-09": 444,
@@ -217,11 +216,11 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 204,
@@ -229,7 +228,7 @@
     "timeMonth": 159,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-03-16": 4
+      "2024-03-16": 0
     }
   },
   {
