@@ -215,19 +215,19 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 127,
-    "timeWeek": 193,
-    "timeMonth": 187,
+    "timeDay": 185,
+    "timeWeek": 199,
+    "timeMonth": 189,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 5
     }
   },
   {
@@ -267,7 +267,7 @@
     "timeMonth": 0,
     "timeYear": 4239,
     "dailyMinutesDown": {
-      "2024-07-28": 446,
+      "2024-07-28": 451,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
