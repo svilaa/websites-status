@@ -119,9 +119,9 @@
     "slug": "print-and-go",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "59.99%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "98.68%",
+    "uptimeDay": "59.62%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.89%",
     "time": 754,
     "timeDay": 89,
@@ -129,7 +129,7 @@
     "timeMonth": 165,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-09-15": 576,
+      "2024-09-15": 581,
       "2024-01-17": 18
     }
   },
@@ -216,19 +216,19 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 201,
-    "timeDay": 158,
+    "time": 202,
+    "timeDay": 167,
     "timeWeek": 187,
     "timeMonth": 185,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-09-15": 0,
+      "2024-09-15": 5,
       "2024-07-29": 68
     }
   },
@@ -269,7 +269,7 @@
     "timeMonth": 0,
     "timeYear": 4213,
     "dailyMinutesDown": {
-      "2024-09-15": 648,
+      "2024-09-15": 654,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
