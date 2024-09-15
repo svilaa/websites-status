@@ -117,18 +117,19 @@
     "url": "https://printandgo.tech",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
+    "time": 754,
     "timeDay": 89,
     "timeWeek": 182,
     "timeMonth": 165,
     "timeYear": 171,
     "dailyMinutesDown": {
+      "2024-09-15": 0,
       "2024-01-17": 18
     }
   },
@@ -267,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 4216,
     "dailyMinutesDown": {
-      "2024-09-15": 54,
+      "2024-09-15": 73,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
