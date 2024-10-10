@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 635,
-    "timeDay": 807,
-    "timeWeek": 620,
-    "timeMonth": 675,
-    "timeYear": 636,
+    "timeDay": 546,
+    "timeWeek": 635,
+    "timeMonth": 674,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2024-06-12": 34,
       "2024-04-17": 29,
@@ -39,10 +39,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 1042,
-    "timeWeek": 1100,
-    "timeMonth": 857,
+    "time": 769,
+    "timeDay": 601,
+    "timeWeek": 1082,
+    "timeMonth": 850,
     "timeYear": 770,
     "dailyMinutesDown": {}
   },
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 177,
-    "timeWeek": 226,
-    "timeMonth": 227,
+    "time": 240,
+    "timeDay": 114,
+    "timeWeek": 223,
+    "timeMonth": 223,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2024-03-16": 18
@@ -78,9 +78,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 48,
-    "timeWeek": 315,
-    "timeMonth": 475,
+    "timeDay": 126,
+    "timeWeek": 313,
+    "timeMonth": 473,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2024-09-16": 19,
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.76%",
-    "time": 1288,
-    "timeDay": 1136,
-    "timeWeek": 886,
-    "timeMonth": 1095,
-    "timeYear": 1074,
+    "time": 1286,
+    "timeDay": 659,
+    "timeWeek": 874,
+    "timeMonth": 1092,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2024-09-25": 68,
       "2024-09-24": 1,
@@ -110,8 +110,7 @@
       "2024-07-10": 16,
       "2024-05-21": 65,
       "2024-05-20": 11,
-      "2023-11-27": 26,
-      "2023-10-11": 439
+      "2023-11-27": 26
     }
   },
   {
@@ -125,9 +124,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.66%",
     "uptimeYear": "99.64%",
-    "time": 560,
+    "time": 555,
     "timeDay": 131,
-    "timeWeek": 120,
+    "timeWeek": 114,
     "timeMonth": 144,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -148,9 +147,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 882,
-    "timeDay": 1600,
-    "timeWeek": 969,
-    "timeMonth": 1079,
+    "timeDay": 877,
+    "timeWeek": 970,
+    "timeMonth": 1074,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2024-09-18": 17
@@ -167,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "90.31%",
-    "time": 2308,
-    "timeDay": 1801,
-    "timeWeek": 1923,
-    "timeMonth": 1688,
-    "timeYear": 1759,
+    "time": 2304,
+    "timeDay": 1092,
+    "timeWeek": 1917,
+    "timeMonth": 1684,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2024-09-25": 68,
       "2024-09-24": 0,
@@ -213,8 +212,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 866,
-      "2023-10-11": 439
+      "2023-12-01": 866
     }
   },
   {
@@ -229,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 130,
-    "timeWeek": 166,
-    "timeMonth": 185,
+    "timeDay": 45,
+    "timeWeek": 155,
+    "timeMonth": 179,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2024-07-29": 68
@@ -249,10 +247,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 318,
-    "timeWeek": 271,
-    "timeMonth": 235,
-    "timeYear": 273,
+    "timeDay": 240,
+    "timeWeek": 253,
+    "timeMonth": 228,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2024-01-17": 18
     }
@@ -263,18 +261,19 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "72.88%",
+    "uptime": "72.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.57%",
+    "uptimeYear": "54.29%",
     "time": 4253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4180,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-10-09": 51,
+      "2024-10-10": 51,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
