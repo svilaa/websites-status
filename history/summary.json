@@ -65,8 +65,8 @@
     "slug": "intech3-d",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
@@ -75,7 +75,6 @@
     "timeMonth": 164,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-03-24": 1,
       "2024-09-16": 19,
       "2024-09-12": 16
     }
@@ -251,14 +250,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "8.88%",
+    "uptimeYear": "8.86%",
     "time": 4065,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2190,
     "dailyMinutesDown": {
-      "2025-03-24": 1392,
+      "2025-03-25": 56,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
