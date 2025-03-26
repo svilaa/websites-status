@@ -65,9 +65,9 @@
     "slug": "intech3-d",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
     "timeDay": 1548,
@@ -75,7 +75,6 @@
     "timeMonth": 304,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-03-26": 5,
       "2024-09-16": 19,
       "2024-09-12": 16
     }
@@ -208,9 +207,9 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -220,6 +219,7 @@
     "timeMonth": 361,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2025-03-26": 0,
       "2024-07-29": 68
     }
   },
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 2167,
     "dailyMinutesDown": {
-      "2025-03-26": 712,
+      "2025-03-26": 718,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
