@@ -63,11 +63,11 @@
     "url": "https://intech3d.es",
     "icon": "https://intech3d.es/wp-content/uploads/2016/11/intech3dlogo2-280x280.png",
     "slug": "intech3-d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
     "timeDay": 1139,
@@ -75,7 +75,7 @@
     "timeMonth": 233,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-03-26": 6,
+      "2025-03-26": 0,
       "2024-09-16": 19,
       "2024-09-12": 16
     }
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 2167,
     "dailyMinutesDown": {
-      "2025-03-26": 689,
+      "2025-03-26": 707,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
