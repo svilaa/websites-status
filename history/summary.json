@@ -22,19 +22,19 @@
     "url": "https://www.auroracloud.app",
     "icon": "https://invelonpublic.s3.eu-west-3.amazonaws.com/img/aurora_logo_128.png",
     "slug": "aurora-cloud-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 471,
-    "timeWeek": 687,
-    "timeMonth": 764,
-    "timeYear": 753,
+    "time": 797,
+    "timeDay": 12239,
+    "timeWeek": 3602,
+    "timeMonth": 1490,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-06-17": 0
+      "2025-06-17": 8
     }
   },
   {
@@ -282,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 827,
+      "2025-06-17": 836,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
