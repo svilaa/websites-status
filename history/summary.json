@@ -22,9 +22,9 @@
     "url": "https://www.auroracloud.app",
     "icon": "https://invelonpublic.s3.eu-west-3.amazonaws.com/img/aurora_logo_128.png",
     "slug": "aurora-cloud-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 687,
     "timeMonth": 764,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-17": 0
+    }
   },
   {
     "name": "Invelon",
@@ -90,7 +92,7 @@
     "time": 883,
     "timeDay": 692,
     "timeWeek": 765,
-    "timeMonth": 869,
+    "timeMonth": 873,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2025-06-04": 25,
@@ -187,7 +189,7 @@
     "time": 1422,
     "timeDay": 1126,
     "timeWeek": 1226,
-    "timeMonth": 1417,
+    "timeMonth": 1424,
     "timeYear": 1449,
     "dailyMinutesDown": {
       "2025-06-04": 25,
@@ -269,7 +271,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "52.22%",
+    "uptime": "52.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -280,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 62,
+      "2025-06-17": 827,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
