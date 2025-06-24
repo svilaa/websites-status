@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 636,
-    "timeWeek": 657,
-    "timeMonth": 651,
-    "timeYear": 701,
+    "timeDay": 785,
+    "timeWeek": 685,
+    "timeMonth": 648,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 489,
-    "timeWeek": 3629,
-    "timeMonth": 1484,
-    "timeYear": 817,
+    "timeDay": 1059,
+    "timeWeek": 3703,
+    "timeMonth": 1483,
+    "timeYear": 818,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 60,
-    "timeWeek": 197,
-    "timeMonth": 238,
-    "timeYear": 250,
+    "timeDay": 109,
+    "timeWeek": 164,
+    "timeMonth": 225,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-02-27": 30
     }
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 399,
-    "timeDay": 102,
-    "timeWeek": 202,
-    "timeMonth": 1121,
-    "timeYear": 463,
+    "timeDay": 72,
+    "timeWeek": 189,
+    "timeMonth": 1119,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2024-09-16": 19,
       "2024-09-12": 16
@@ -88,9 +88,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.82%",
     "time": 885,
-    "timeDay": 877,
-    "timeWeek": 872,
-    "timeMonth": 874,
+    "timeDay": 1119,
+    "timeWeek": 919,
+    "timeMonth": 877,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2025-06-18": 16,
@@ -145,8 +145,8 @@
     "uptimeYear": "99.64%",
     "time": 148,
     "timeDay": 79,
-    "timeWeek": 92,
-    "timeMonth": 121,
+    "timeWeek": 86,
+    "timeMonth": 122,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2024-09-16": 533,
@@ -164,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 860,
-    "timeDay": 340,
-    "timeWeek": 779,
-    "timeMonth": 681,
-    "timeYear": 865,
+    "time": 861,
+    "timeDay": 1170,
+    "timeWeek": 875,
+    "timeMonth": 692,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2025-03-18": 23,
       "2024-09-18": 17
@@ -185,11 +185,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
-    "time": 1424,
-    "timeDay": 1472,
-    "timeWeek": 1341,
-    "timeMonth": 1408,
-    "timeYear": 1449,
+    "time": 1425,
+    "timeDay": 1907,
+    "timeWeek": 1428,
+    "timeMonth": 1415,
+    "timeYear": 1450,
     "dailyMinutesDown": {
       "2025-06-18": 15,
       "2025-06-04": 25,
@@ -238,10 +238,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 219,
-    "timeDay": 131,
-    "timeWeek": 254,
-    "timeMonth": 253,
-    "timeYear": 233,
+    "timeDay": 110,
+    "timeWeek": 170,
+    "timeMonth": 252,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2025-03-26": 27,
       "2024-07-29": 68
@@ -260,8 +260,8 @@
     "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 542,
-    "timeWeek": 341,
-    "timeMonth": 362,
+    "timeWeek": 353,
+    "timeMonth": 365,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -271,18 +271,19 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "51.87%",
+    "uptime": "51.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3454,
+    "time": 3446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-23": 66,
+      "2025-06-24": 62,
+      "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -645,8 +646,7 @@
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
-      "2024-06-25": 1440,
-      "2024-06-24": 1440
+      "2024-06-25": 1440
     }
   }
 ]
