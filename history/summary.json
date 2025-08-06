@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 675,
-    "timeDay": 493,
-    "timeWeek": 798,
-    "timeMonth": 647,
-    "timeYear": 701,
+    "timeDay": 513,
+    "timeWeek": 591,
+    "timeMonth": 637,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 793,
-    "timeDay": 632,
-    "timeWeek": 786,
-    "timeMonth": 763,
-    "timeYear": 808,
+    "timeDay": 512,
+    "timeWeek": 697,
+    "timeMonth": 741,
+    "timeYear": 807,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 240,
-    "timeDay": 80,
-    "timeWeek": 275,
-    "timeMonth": 273,
-    "timeYear": 251,
+    "time": 241,
+    "timeDay": 193,
+    "timeWeek": 278,
+    "timeMonth": 270,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-07-24": 31,
       "2025-02-27": 30
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 395,
-    "timeDay": 126,
-    "timeWeek": 235,
-    "timeMonth": 227,
-    "timeYear": 470,
+    "timeDay": 313,
+    "timeWeek": 198,
+    "timeMonth": 229,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2024-09-16": 19,
       "2024-09-12": 16
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 895,
-    "timeDay": 647,
-    "timeWeek": 967,
-    "timeMonth": 905,
-    "timeYear": 899,
+    "timeDay": 792,
+    "timeWeek": 919,
+    "timeMonth": 898,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-06-18": 16,
       "2025-06-04": 25,
@@ -144,9 +144,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.63%",
     "time": 150,
-    "timeDay": 344,
-    "timeWeek": 252,
-    "timeMonth": 172,
+    "timeDay": 428,
+    "timeWeek": 211,
+    "timeMonth": 174,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2025-08-05": 25,
@@ -165,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 856,
-    "timeDay": 245,
-    "timeWeek": 1333,
-    "timeMonth": 759,
-    "timeYear": 847,
+    "time": 855,
+    "timeDay": 495,
+    "timeWeek": 1301,
+    "timeMonth": 753,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2025-03-18": 23,
       "2024-09-18": 17
@@ -187,10 +187,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1446,
-    "timeDay": 1041,
-    "timeWeek": 1359,
-    "timeMonth": 1401,
-    "timeYear": 1453,
+    "timeDay": 1215,
+    "timeWeek": 1285,
+    "timeMonth": 1384,
+    "timeYear": 1452,
     "dailyMinutesDown": {
       "2025-06-18": 15,
       "2025-06-04": 25,
@@ -238,9 +238,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 235,
-    "timeWeek": 226,
-    "timeMonth": 238,
+    "timeDay": 355,
+    "timeWeek": 250,
+    "timeMonth": 242,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-03-26": 27
@@ -258,10 +258,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 521,
-    "timeWeek": 341,
-    "timeMonth": 332,
-    "timeYear": 319,
+    "timeDay": 513,
+    "timeWeek": 328,
+    "timeMonth": 324,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2025-08-05": 25
     }
@@ -272,18 +272,19 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "49.45%",
+    "uptime": "49.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2223,
+    "time": 2190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-05": 1103,
+      "2025-08-06": 67,
+      "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -646,8 +647,7 @@
       "2024-08-10": 1440,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
-      "2024-08-07": 1440,
-      "2024-08-06": 1440
+      "2024-08-07": 1440
     }
   }
 ]
