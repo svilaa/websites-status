@@ -139,9 +139,9 @@
     "url": "https://printandgo.tech",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.63%",
@@ -151,6 +151,7 @@
     "timeMonth": 149,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2025-08-22": 0,
       "2025-08-21": 16,
       "2025-08-05": 25,
       "2024-09-16": 533,
@@ -254,9 +255,9 @@
     "url": "https://www.innitia.studio",
     "icon": "https://www.innitia.studio/favicon.ico",
     "slug": "innitia-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -266,6 +267,7 @@
     "timeMonth": 338,
     "timeYear": 320,
     "dailyMinutesDown": {
+      "2025-08-22": 0,
       "2025-08-21": 16,
       "2025-08-05": 25
     }
@@ -276,7 +278,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "48.60%",
+    "uptime": "48.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -287,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-22": 58,
+      "2025-08-22": 1177,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
