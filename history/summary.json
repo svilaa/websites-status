@@ -4,19 +4,19 @@
     "url": "https://www.printandgo.app",
     "icon": "https://preprodintechserver.s3.amazonaws.com/static/img/printandgo_logos/favicon.ico",
     "slug": "print-and-go-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 578,
-    "timeWeek": 588,
-    "timeMonth": 612,
-    "timeYear": 691,
+    "time": 679,
+    "timeDay": 551,
+    "timeWeek": 578,
+    "timeMonth": 608,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-08-27": 0
+      "2025-08-27": 17
     }
   },
   {
@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 1031,
+      "2025-08-27": 1048,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
