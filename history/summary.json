@@ -6,17 +6,16 @@
     "slug": "print-and-go-app",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 669,
     "timeWeek": 650,
     "timeMonth": 596,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-08-30": 11,
       "2025-08-27": 17
     }
   },
@@ -25,19 +24,19 @@
     "url": "https://www.auroracloud.app",
     "icon": "https://invelonpublic.s3.eu-west-3.amazonaws.com/img/aurora_logo_128.png",
     "slug": "aurora-cloud-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 471,
-    "timeWeek": 745,
-    "timeMonth": 798,
-    "timeYear": 809,
+    "time": 829,
+    "timeDay": 7308,
+    "timeWeek": 2420,
+    "timeMonth": 1215,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 5
     }
   },
   {
@@ -146,9 +145,9 @@
     "slug": "print-and-go",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.63%",
     "time": 148,
     "timeDay": 105,
@@ -156,7 +155,6 @@
     "timeMonth": 145,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-08-30": 12,
       "2025-08-21": 16,
       "2025-08-05": 25,
       "2024-09-16": 533,
@@ -262,9 +260,9 @@
     "slug": "innitia-studio",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 307,
     "timeDay": 455,
@@ -272,7 +270,6 @@
     "timeMonth": 354,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-08-30": 11,
       "2025-08-21": 16,
       "2025-08-05": 25
     }
@@ -294,7 +291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-30": 1409,
+      "2025-08-30": 1414,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
