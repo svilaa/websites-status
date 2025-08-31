@@ -11,7 +11,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 684,
-    "timeDay": 669,
+    "timeDay": 658,
     "timeWeek": 650,
     "timeMonth": 596,
     "timeYear": 691,
@@ -26,18 +26,16 @@
     "slug": "aurora-cloud-app",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 829,
     "timeDay": 7308,
     "timeWeek": 2420,
     "timeMonth": 1215,
     "timeYear": 845,
-    "dailyMinutesDown": {
-      "2025-08-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Invelon",
@@ -150,7 +148,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.63%",
     "time": 148,
-    "timeDay": 105,
+    "timeDay": 111,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 139,
@@ -265,7 +263,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 307,
-    "timeDay": 455,
+    "timeDay": 422,
     "timeWeek": 397,
     "timeMonth": 354,
     "timeYear": 326,
@@ -291,7 +289,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-30": 1414,
+      "2025-08-31": 61,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -654,8 +653,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   }
 ]
