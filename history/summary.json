@@ -29,19 +29,19 @@
     "url": "https://www.auroracloud.app",
     "icon": "https://invelonpublic.s3.eu-west-3.amazonaws.com/img/aurora_logo_128.png",
     "slug": "aurora-cloud-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 303,
-    "timeWeek": 671,
-    "timeMonth": 652,
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.97%",
+    "time": 826,
+    "timeDay": 498,
+    "timeWeek": 695,
+    "timeMonth": 659,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 178
     }
   },
   {
@@ -292,7 +292,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "44.47%",
+    "uptime": "44.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -303,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 697,
+      "2025-11-18": 875,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
