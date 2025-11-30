@@ -180,7 +180,7 @@
     "timeDay": 944,
     "timeWeek": 682,
     "timeMonth": 654,
-    "timeYear": 752,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-03-18": 23
     }
@@ -197,7 +197,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1441,
-    "timeDay": 1559,
+    "timeDay": 1358,
     "timeWeek": 1389,
     "timeMonth": 1380,
     "timeYear": 1419,
@@ -235,9 +235,9 @@
     "url": "https://aulasateca.com",
     "icon": "https://aulasateca.com/icons/icon-48x48.png",
     "slug": "aulas-ateca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "90.03%",
     "uptimeYear": "99.16%",
@@ -247,6 +247,7 @@
     "timeMonth": 307,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2025-11-30": 1,
       "2025-11-26": 24,
       "2025-11-22": 17,
       "2025-11-14": 873,
@@ -294,7 +295,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "43.98%",
+    "uptime": "43.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -305,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 68,
+      "2025-11-30": 579,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
