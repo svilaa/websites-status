@@ -11,9 +11,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.95%",
     "time": 691,
-    "timeDay": 624,
-    "timeWeek": 737,
-    "timeMonth": 642,
+    "timeDay": 759,
+    "timeWeek": 711,
+    "timeMonth": 651,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2026-01-26": 92,
@@ -37,11 +37,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
-    "time": 810,
-    "timeDay": 754,
-    "timeWeek": 858,
-    "timeMonth": 761,
-    "timeYear": 856,
+    "time": 809,
+    "timeDay": 800,
+    "timeWeek": 850,
+    "timeMonth": 766,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2026-02-16": 32,
       "2026-02-02": 48,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 292,
-    "timeDay": 451,
-    "timeWeek": 365,
-    "timeMonth": 343,
+    "timeDay": 195,
+    "timeWeek": 314,
+    "timeMonth": 335,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2025-11-05": 24,
@@ -83,9 +83,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 424,
-    "timeDay": 506,
-    "timeWeek": 342,
+    "time": 422,
+    "timeDay": 130,
+    "timeWeek": 299,
     "timeMonth": 330,
     "timeYear": 463,
     "dailyMinutesDown": {
@@ -104,12 +104,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 785,
-    "timeDay": 338,
-    "timeWeek": 374,
-    "timeMonth": 288,
-    "timeYear": 763,
+    "uptimeYear": "99.90%",
+    "time": 784,
+    "timeDay": 106,
+    "timeWeek": 267,
+    "timeMonth": 284,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2026-01-19": 24,
       "2025-12-25": 18,
@@ -134,8 +134,7 @@
       "2025-03-21": 17,
       "2025-03-03": 17,
       "2025-03-02": 16,
-      "2025-02-28": 21,
-      "2025-02-22": 81
+      "2025-02-28": 21
     }
   },
   {
@@ -150,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 153,
-    "timeDay": 233,
-    "timeWeek": 185,
-    "timeMonth": 175,
+    "timeDay": 70,
+    "timeWeek": 148,
+    "timeMonth": 173,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2026-01-19": 24,
@@ -179,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 769,
-    "timeDay": 690,
-    "timeWeek": 989,
-    "timeMonth": 888,
-    "timeYear": 707,
+    "time": 768,
+    "timeDay": 629,
+    "timeWeek": 900,
+    "timeMonth": 893,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2025-12-05": 30,
       "2025-03-18": 23
@@ -197,13 +196,13 @@
     "status": "up",
     "uptime": "97.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 1419,
-    "timeDay": 1254,
-    "timeWeek": 1321,
-    "timeMonth": 1326,
+    "timeDay": 1623,
+    "timeWeek": 1419,
+    "timeMonth": 1342,
     "timeYear": 1422,
     "dailyMinutesDown": {
       "2026-02-14": 22,
@@ -225,8 +224,7 @@
       "2025-03-21": 17,
       "2025-03-03": 16,
       "2025-03-02": 16,
-      "2025-02-28": 20,
-      "2025-02-22": 81
+      "2025-02-28": 20
     }
   },
   {
@@ -238,12 +236,12 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.64%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "98.96%",
     "time": 278,
-    "timeDay": 508,
-    "timeWeek": 384,
-    "timeMonth": 408,
+    "timeDay": 201,
+    "timeWeek": 364,
+    "timeMonth": 399,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2026-02-18": 110,
@@ -295,9 +293,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 354,
-    "timeDay": 243,
-    "timeWeek": 877,
-    "timeMonth": 491,
+    "timeDay": 359,
+    "timeWeek": 265,
+    "timeMonth": 498,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2026-01-19": 24,
@@ -319,7 +317,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "40.76%",
+    "uptime": "40.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -330,7 +328,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-21": 75,
+      "2026-02-22": 81,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -693,8 +692,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   }
 ]
