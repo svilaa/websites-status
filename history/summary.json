@@ -53,9 +53,9 @@
     "url": "https://invelon.com",
     "icon": "https://invelon.com/favicon-32x32.png",
     "slug": "invelon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -69,7 +69,8 @@
       "2025-08-14": 22,
       "2025-10-20": 31,
       "2025-11-05": 24,
-      "2026-05-10": 105
+      "2026-05-10": 105,
+      "2026-06-14": 0
     }
   },
   {
@@ -181,12 +182,12 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 1417,
     "timeDay": 1205,
-    "timeWeek": 1136,
+    "timeWeek": 1084,
     "timeMonth": 1252,
     "timeYear": 1392,
     "dailyMinutesDown": {
@@ -312,7 +313,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "37.07%",
+    "uptime": "37.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -323,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 168,
+      "2026-06-14": 1301,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
