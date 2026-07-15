@@ -14,7 +14,7 @@
     "timeDay": 643,
     "timeWeek": 881,
     "timeMonth": 825,
-    "timeYear": 696,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2025-08-27": 17,
       "2025-09-01": 16,
@@ -41,7 +41,7 @@
     "timeDay": 660,
     "timeWeek": 946,
     "timeMonth": 933,
-    "timeYear": 799,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2025-11-18": 178,
       "2026-02-02": 48,
@@ -63,7 +63,7 @@
     "timeDay": 138,
     "timeWeek": 224,
     "timeMonth": 320,
-    "timeYear": 333,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2025-07-24": 31,
       "2025-08-14": 22,
@@ -88,7 +88,7 @@
     "timeDay": 92,
     "timeWeek": 396,
     "timeMonth": 382,
-    "timeYear": 307,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-08-14": 21,
       "2025-11-10": 18,
@@ -111,7 +111,7 @@
     "timeDay": 174,
     "timeWeek": 178,
     "timeMonth": 198,
-    "timeYear": 488,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2025-12-14": 18,
       "2025-12-25": 18,
@@ -164,7 +164,7 @@
     "timeDay": 295,
     "timeWeek": 706,
     "timeMonth": 743,
-    "timeYear": 767,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-12-05": 30,
       "2026-03-13": 19,
@@ -180,16 +180,16 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "down",
+    "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "39.60%",
-    "uptimeWeek": "89.66%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "99.73%",
-    "time": 1360,
-    "timeDay": 1065,
-    "timeWeek": 1013,
-    "timeMonth": 970,
+    "uptimeDay": "39.17%",
+    "uptimeWeek": "89.10%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "99.72%",
+    "time": 1359,
+    "timeDay": 1196,
+    "timeWeek": 1019,
+    "timeMonth": 974,
     "timeYear": 1346,
     "dailyMinutesDown": {
       "2026-02-14": 22,
@@ -200,7 +200,7 @@
       "2026-05-08": 103,
       "2026-06-07": 72,
       "2026-07-14": 243,
-      "2026-07-15": 799
+      "2026-07-15": 856
     }
   },
   {
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 1352,
+      "2026-07-15": 1409,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
