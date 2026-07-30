@@ -12,7 +12,7 @@
     "uptimeYear": "99.95%",
     "time": 705,
     "timeDay": 997,
-    "timeWeek": 934,
+    "timeWeek": 920,
     "timeMonth": 883,
     "timeYear": 704,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
     "uptimeYear": "99.95%",
     "time": 847,
     "timeDay": 1051,
-    "timeWeek": 1002,
+    "timeWeek": 992,
     "timeMonth": 990,
     "timeYear": 809,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
     "uptimeYear": "99.95%",
     "time": 314,
     "timeDay": 340,
-    "timeWeek": 379,
+    "timeWeek": 424,
     "timeMonth": 361,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -85,7 +85,7 @@
     "uptimeYear": "99.98%",
     "time": 432,
     "timeDay": 529,
-    "timeWeek": 368,
+    "timeWeek": 381,
     "timeMonth": 369,
     "timeYear": 312,
     "dailyMinutesDown": {
@@ -108,7 +108,7 @@
     "uptimeYear": "99.97%",
     "time": 543,
     "timeDay": 477,
-    "timeWeek": 285,
+    "timeWeek": 313,
     "timeMonth": 223,
     "timeYear": 461,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "uptimeYear": "99.95%",
     "time": 165,
     "timeDay": 219,
-    "timeWeek": 212,
+    "timeWeek": 235,
     "timeMonth": 192,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -161,7 +161,7 @@
     "uptimeYear": "99.77%",
     "time": 755,
     "timeDay": 910,
-    "timeWeek": 1010,
+    "timeWeek": 1012,
     "timeMonth": 817,
     "timeYear": 778,
     "dailyMinutesDown": {
@@ -184,13 +184,13 @@
     "slug": "in-game-vr",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "63.47%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.02%",
+    "uptimeDay": "64.49%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.60%",
     "time": 1358,
     "timeDay": 1006,
-    "timeWeek": 1084,
+    "timeWeek": 1062,
     "timeMonth": 1023,
     "timeYear": 1327,
     "dailyMinutesDown": {
@@ -204,7 +204,7 @@
       "2026-07-14": 243,
       "2026-07-15": 856,
       "2026-07-28": 117,
-      "2026-07-29": 526
+      "2026-07-29": 511
     }
   },
   {
@@ -220,7 +220,7 @@
     "uptimeYear": "98.72%",
     "time": 355,
     "timeDay": 2035,
-    "timeWeek": 1005,
+    "timeWeek": 1066,
     "timeMonth": 671,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -296,7 +296,7 @@
     "uptimeYear": "99.96%",
     "time": 352,
     "timeDay": 822,
-    "timeWeek": 395,
+    "timeWeek": 408,
     "timeMonth": 388,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "35.76%",
+    "uptime": "35.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -330,7 +330,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 1431,
+      "2026-07-30": 102,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -693,8 +694,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   }
 ]
