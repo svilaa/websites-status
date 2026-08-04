@@ -182,16 +182,16 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "down",
-    "uptime": "97.59%",
-    "uptimeDay": "76.03%",
-    "uptimeWeek": "64.15%",
-    "uptimeMonth": "89.24%",
-    "uptimeYear": "99.03%",
-    "time": 1310,
-    "timeDay": 670,
-    "timeWeek": 802,
-    "timeMonth": 901,
+    "status": "up",
+    "uptime": "97.58%",
+    "uptimeDay": "55.35%",
+    "uptimeWeek": "61.20%",
+    "uptimeMonth": "88.56%",
+    "uptimeYear": "98.98%",
+    "time": 1309,
+    "timeDay": 721,
+    "timeWeek": 806,
+    "timeMonth": 902,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2026-02-14": 22,
@@ -210,7 +210,7 @@
       "2026-08-01": 513,
       "2026-08-02": 707,
       "2026-08-03": 240,
-      "2026-08-04": 105
+      "2026-08-04": 403
     }
   },
   {
@@ -325,7 +325,7 @@
     "icon": "https://unviajealpasado.com/wp-content/uploads/2022/08/cropped-favicon-santiago-pontones-1-192x192.png",
     "slug": "un-viaje-al-pasado",
     "status": "down",
-    "uptime": "35.62%",
+    "uptime": "35.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -336,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 105,
+      "2026-08-04": 404,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
