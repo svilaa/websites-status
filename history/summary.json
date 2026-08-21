@@ -178,20 +178,20 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "84.80%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "85.40%",
     "uptimeMonth": "82.33%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 1271,
     "timeDay": 947,
-    "timeWeek": 1058,
+    "timeWeek": 1057,
     "timeMonth": 988,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2026-07-14": 71,
       "2026-07-15": 856,
+      "2026-07-14": 20,
       "2026-07-28": 117,
       "2026-07-29": 511,
       "2026-07-30": 399,
@@ -216,7 +216,7 @@
       "2026-08-18": 194,
       "2026-08-19": 173,
       "2026-08-20": 80,
-      "2026-08-21": 90
+      "2026-08-21": 91
     }
   },
   {
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 418,
+      "2026-08-21": 600,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
