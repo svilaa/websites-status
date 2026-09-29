@@ -13,7 +13,7 @@
     "time": 728,
     "timeDay": 589,
     "timeWeek": 649,
-    "timeMonth": 824,
+    "timeMonth": 810,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2025-11-05": 24,
@@ -35,7 +35,7 @@
     "time": 888,
     "timeDay": 572,
     "timeWeek": 775,
-    "timeMonth": 958,
+    "timeMonth": 954,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-11-18": 178,
@@ -57,7 +57,7 @@
     "time": 324,
     "timeDay": 75,
     "timeWeek": 233,
-    "timeMonth": 322,
+    "timeMonth": 309,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-10-20": 31,
@@ -80,7 +80,7 @@
     "time": 362,
     "timeDay": 202,
     "timeWeek": 290,
-    "timeMonth": 377,
+    "timeMonth": 375,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-11-10": 18,
@@ -102,7 +102,7 @@
     "time": 485,
     "timeDay": 90,
     "timeWeek": 262,
-    "timeMonth": 299,
+    "timeMonth": 282,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2025-12-14": 18,
@@ -125,7 +125,7 @@
     "time": 183,
     "timeDay": 113,
     "timeWeek": 167,
-    "timeMonth": 233,
+    "timeMonth": 231,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-10-20": 56,
@@ -149,7 +149,7 @@
     "time": 761,
     "timeDay": 597,
     "timeWeek": 723,
-    "timeMonth": 704,
+    "timeMonth": 706,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -169,19 +169,18 @@
     "url": "https://ingamevr.com",
     "icon": "https://ingamevr.com/wp-content/uploads/2020/06/ingame-favicon-r-400x400.png",
     "slug": "in-game-vr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "97.26%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.84%",
     "time": 1226,
-    "timeDay": 416,
-    "timeWeek": 748,
-    "timeMonth": 910,
-    "timeYear": 1188,
+    "timeDay": 604,
+    "timeWeek": 753,
+    "timeMonth": 909,
+    "timeYear": 1187,
     "dailyMinutesDown": {
-      "2026-08-05": 137,
       "2026-08-06": 348,
       "2026-08-07": 135,
       "2026-08-08": 397,
@@ -209,7 +208,8 @@
       "2026-09-03": 365,
       "2026-09-07": 332,
       "2026-09-08": 222,
-      "2026-09-26": 46
+      "2026-09-26": 46,
+      "2026-09-29": 1
     }
   },
   {
@@ -226,7 +226,7 @@
     "time": 399,
     "timeDay": 509,
     "timeWeek": 515,
-    "timeMonth": 634,
+    "timeMonth": 636,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2025-10-15": 19,
@@ -302,7 +302,7 @@
     "time": 364,
     "timeDay": 426,
     "timeWeek": 295,
-    "timeMonth": 338,
+    "timeMonth": 337,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-10-20": 16,
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-29": 208,
+      "2026-09-29": 539,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
